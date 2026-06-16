@@ -1,5 +1,16 @@
 # Customer Intelligence & Churn Analytics Platform
 
+## Application Screenshots
+
+### Home Page
+
+![Home Page](screenshots/homepage.png.png)
+
+### Prediction Result
+
+![Prediction](screenshots/prediction.png.png)
+![Prediction](screenshots/prediction1.png.png)
+
 ## Overview
 
 Customer churn is one of the most important business metrics for subscription-based companies. This project predicts whether a customer is likely to churn based on demographic information, service usage patterns, contract details, and billing information.
